@@ -331,7 +331,8 @@ footer{
 
 
 .logo-light{
-	padding-left:550px;
+	/*padding-left:550px;*/
+	text-align:center;
 	padding-top:350px;
 	margin-bottom:30px;	
 }
@@ -339,6 +340,7 @@ footer{
 .copyright{
 	color:#ffffff;
 	text-align:center;
-	padding-left:350px;
+	/*padding-left:350px;*/
 	padding-top:100px;
+	text-align:center;
 }
